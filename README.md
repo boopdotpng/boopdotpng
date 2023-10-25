@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, I'm Anuraag! (or Anu) 👋
 
-<!--
-**Anu78/anu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer engineering student at the University of North Carolina at Charlotte, with a knack for tackling complex problems with innovative solutions. My coding arsenal includes Python, Java, and C++, and I have a track record of working on diverse projects. I've ventured into creating my own compiled language, crafted an interactive sudoku solver, and even contributed public tests and solutions for a challenging C++ class.
 
-Here are some ideas to get you started:
+Beyond coding, I'm an enthusiast of diverse hobbies, whether I'm coaxing melodies from my cello, exploring the great outdoors through hiking, or diving into a good book. I'm always on the lookout for new opportunities to learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I took on a unique project – a Canvas Discord bot designed to help engineering students collaborate on assignments and stay organized. This bot proved to be a big success, serving over 100 students in their academic journeys.
+
+What sets me apart is not just my skills but my strong work ethic and willingness to learn. I thrive in collaborative environments and am confident that my passion and expertise can contribute to the success of any team.
+
+Feel free to explore my repositories and connect with me. Let's code the future together! 🚀
+
+---
+
+* [LinkedIn](https://www.linkedin.com/in/anuraagw)
+* [Portfolio Website](https://anuraagw.me)
+* [Email](mailto:anuraag.warudkar@gmail.com)
