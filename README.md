@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/anuraagw">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://anuraagw.me">
+  <a href="https://anu78.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
 </a>
   </div>
