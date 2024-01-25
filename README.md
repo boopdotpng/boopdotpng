@@ -13,13 +13,12 @@
   Hello, I'm Anuraag! 👋
 </h1>
 
-I'm a passionate computer engineering student at the University of North Carolina at Charlotte, with a knack for tackling complex problems with innovative solutions. My coding arsenal includes Python, Java, and C++, and I have a track record of working on diverse projects. I've ventured into creating my own compiled language, crafted an interactive sudoku solver, and even contributed public tests and solutions for a challenging C++ class.
+I love coding, building solutions to difficult problems, typing, playing pool, and I especially enjoy pushing my boundaries in terms of my capabilities and problem solving abilities. I mostly work in Python and TypeScript, but I have experience in a lot of other languages as well (from doing advent of code challenges each year). Some of my most notable projects: 
 
-Beyond coding, I'm an enthusiast of diverse hobbies, whether I'm coaxing melodies from my cello 🎻, exploring the great outdoors through hiking 🥾, playing in pool tournaments 🎱 or diving into a good book. I'm always on the lookout for new opportunities to learn and grow.
+- ** Canvas Discord Bot ** - A discord bot that helps students connect in engineering classes. They can ask questions on a forum, send assignment reminders, schedule to-do tasks. This was actually used by people in classes and helped a lot of people understand the material.
+- ** GeoGuessr AI ** - Using a ResNet based model, it is possible to predict where a location is in the US based on just one image retrieved from the Street View API. My solution managed to guess 500 miles away from the actual location, but a more improved version is coming soon. 
 
-In my spare time, I took on a unique project – a Canvas Discord bot designed to help engineering students collaborate on assignments and stay organized. This bot proved to be a big success, serving over 100 students in their academic journeys.
+Feel free to explore my repositories and connect with me. Let's build something awesome! 🚀
 
-What sets me apart is not just my skills but my strong work ethic and willingness to learn. I thrive in collaborative environments and am confident that my passion and expertise can contribute to the success of any team.
 
-Feel free to explore my repositories and connect with me. Let's code the future together! 🚀
-
+<img src="https://data.typeracer.com/misc/badge?user=bbop4460" alt="typeracer stats"/>
