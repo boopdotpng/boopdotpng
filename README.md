@@ -13,12 +13,19 @@
   Hello, I'm Anuraag! 👋
 </h1>
 
-I love coding, building solutions to difficult problems, typing, playing pool, and I especially enjoy pushing my boundaries in terms of my capabilities and problem solving abilities. I mostly work in Python and TypeScript, but I have experience in a lot of other languages as well (from doing advent of code challenges each year). Some of my most notable projects: 
+recently, i've been researching machine learning a lot (mostly inspired by Andrej Karpathy's youtube series) and learning C#. hoping for a super productive summer! 
 
-- **Canvas Discord Bot** - A discord bot that helps students connect in engineering classes. They can ask questions on a forum, send assignment reminders, schedule to-do tasks. This was actually used by people in classes and helped a lot of people understand the material.
-- **GeoGuessr AI** - Using a ResNet based model, it is possible to predict where a location is in the US based on just one image retrieved from the Street View API. My solution managed to guess 500 miles away from the actual location, but a more improved version is coming soon. 
+## summer goals
+ 
+ - finish a general purpose reinfocement learning implementation for most games using a DQN + CNN/LSTM combination. read the code [here](https://github.com/Anu78/machine-learning-hw-uncc/tree/main/final-rl).
+ - overhaul my personal website (visit [here](https://anuraagw.me)) 
+ - try to contribute something to tinygrad (and maybe get a bounty!)
 
-Feel free to explore my repositories and connect with me. Let's build something awesome! 🚀
+## some of my past work
+
+ - a geoguessr AI that is reasonably good at predicting locations in the US. this could use some improvements as well. perhaps a resnet based model would work better. 
+ - started writing my own compiler (in rust) for booplang (work in progress). this is a super ambitious goal and i got stuck midway through working on it but i want to come back to it soon. [link](https://github.com/Anu78/booplang)
+ - wrote embedded software (in python) on a raspberry pi for a machine built to rewarm vitrified organoids. specially controlled heating, motors, a custom menu system for a lcd char display, and much more. [link](https://github.com/Anu78/senior-design-23to24)
 
 
 <img src="https://data.typeracer.com/misc/badge?user=bbop4460" alt="typeracer stats"/>
