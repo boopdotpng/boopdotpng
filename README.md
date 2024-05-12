@@ -27,5 +27,9 @@ recently, i've been researching machine learning a lot (mostly inspired by Andre
  - started writing my own compiler (in rust) for booplang (work in progress). this is a super ambitious goal and i got stuck midway through working on it but i want to come back to it soon. [link](https://github.com/Anu78/booplang)
  - wrote embedded software (in python) on a raspberry pi for a machine built to rewarm vitrified organoids. specially controlled heating, motors, a custom menu system for a lcd char display, and much more. [link](https://github.com/Anu78/senior-design-23to24)
 
+# misc goals 
+- zi8gzag, jake lyons, and finbarr have inspired me to start grinding geoguessr. it would be really cool to play one of them eventually! 
+- follow me on [twitter](https://twitter.com/boopdotpng) (i'm not calling it x) for random (hopefully more frequent tweets)
+
 
 <img src="https://data.typeracer.com/misc/badge?user=bbop4460" alt="typeracer stats"/>
