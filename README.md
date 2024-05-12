@@ -10,7 +10,7 @@
 </a>
   </div>
   <h1>
-  Hello, I'm Anuraag! 👋
+  hi, i'm anuraag! 👋
 </h1>
 
 recently, i've been researching machine learning a lot (mostly inspired by Andrej Karpathy's youtube series) and learning C#. hoping for a super productive summer! 
