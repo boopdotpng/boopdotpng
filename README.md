@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="220"/>
+
 
   <div id="badges">
   <a href="https://linkedin.com/in/anuraagw">
